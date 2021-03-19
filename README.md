@@ -1,24 +1,19 @@
-# project_amuse
+# 프론트 지원자 정현섭 과제물
 
-## Project setup
+## 프로젝트 설치
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 프로젝트 실행
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 프로젝트 배포
+
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

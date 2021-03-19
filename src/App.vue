@@ -2,9 +2,6 @@
 	<div id="app">
 		<Header />
 		<Section />
-		<div>
-			<!-- <router-view></router-view> -->
-		</div>
 	</div>
 </template>
 
